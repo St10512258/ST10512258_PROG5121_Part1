@@ -18,6 +18,7 @@ Login.java is the second step where the user has to now punch in their details l
 ###Username Validation
 ---
 -Allows user to enter their personal details
+---
 ###Password Validation
 ---
 -Enforces strong password rules
